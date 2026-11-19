@@ -5,8 +5,8 @@ Origin: KERNOVA
 Label: KERNOVA
 Suite: kernova-trixie
 Codename: kernova-trixie
-Date: Thu, 19 Nov 2026 10:34:46 UTC
-Valid-Until: Thu, 03 Dec 2026 10:34:46 UTC
+Date: Thu, 19 Nov 2026 10:37:12 UTC
+Valid-Until: Thu, 03 Dec 2026 10:37:12 UTC
 Architectures: amd64
 Components: main
 NotAutomatic: yes
@@ -25,8 +25,8 @@ SHA256:
  3742d242491e71a4f0bb8990026380f7370137922e09a6a846909a818d2879e4 135 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQRpaKljYA07pJJoppCIqvLhmyko0gUCav7QxgAKCRCIqvLhmyko
-0rfJAQDS0axwHGynlIIS7kn85BPbgqNXxKaIDsTsg3X3ij+0eAD+KMw5xLHuYFle
-O+4nrCYm7kUwoLwvgH1J+xChDBKaTwQ=
-=C9g4
+iHUEARYKAB0WIQRpaKljYA07pJJoppCIqvLhmyko0gUCav7RWAAKCRCIqvLhmyko
+0i2kAP4jpQQcF0uIZeh9+JY0aOroL5huYjTtRGW6cDNzxcqrsgD/f3JwUN4Z4ijN
+/DUcDi4ThxPoksYHKBlx/EFfP/1iUQ4=
+=fmZt
 -----END PGP SIGNATURE-----
