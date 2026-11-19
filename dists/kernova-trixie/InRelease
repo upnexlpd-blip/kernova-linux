@@ -5,28 +5,28 @@ Origin: KERNOVA
 Label: KERNOVA
 Suite: kernova-trixie
 Codename: kernova-trixie
-Date: Thu, 19 Nov 2026 19:24:15 UTC
-Valid-Until: Thu, 03 Dec 2026 19:24:15 UTC
+Date: Thu, 19 Nov 2026 19:44:10 UTC
+Valid-Until: Thu, 03 Dec 2026 19:44:10 UTC
 Architectures: amd64
 Components: main
 NotAutomatic: yes
 ButAutomaticUpgrades: yes
 MD5Sum:
- 0beb25d0b2a77b8f029035181e7ee00b 4791 main/binary-amd64/Packages
- b4aa194f7a5f8caff6734488d347b707 1978 main/binary-amd64/Packages.gz
+ 1606d29cb84f6607c5fb484b2434aad7 4796 main/binary-amd64/Packages
+ 90df52755fddb163eef3b83c06829358 1980 main/binary-amd64/Packages.gz
  207d1866914fe8a16082034ce9407dce 135 main/binary-amd64/Release
 SHA1:
- 01ca7c77cf16fc73309a17318889d98f89c05d40 4791 main/binary-amd64/Packages
- 6d014e67db83a01bbde6e93cd2cf9c668bbb38c1 1978 main/binary-amd64/Packages.gz
+ fdca067fed6f9d6a995597cc2bea051d1a340315 4796 main/binary-amd64/Packages
+ 679c2898316dfb21ee6af97588b3deeeac2b1123 1980 main/binary-amd64/Packages.gz
  88136ecd0c1a15b9a5d5b624b05ba07a1a56f80e 135 main/binary-amd64/Release
 SHA256:
- 5806bf5940f22c38fdc529aac673b3342399d5ebb78c64fa9728aef5537b1b7d 4791 main/binary-amd64/Packages
- 03e068b6285d22c927ad813ebfb77a6ee06c59008daac341a8f5394542b9b0fe 1978 main/binary-amd64/Packages.gz
+ 0e1683c985b51b9df430a50d9cfbf773cf28387a2eb773b2285b06f33f8e6fe4 4796 main/binary-amd64/Packages
+ 3cda0549daef739d957e82784bc88cbb05f55f62ef667b533d9431d7670ef88c 1980 main/binary-amd64/Packages.gz
  3742d242491e71a4f0bb8990026380f7370137922e09a6a846909a818d2879e4 135 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQRpaKljYA07pJJoppCIqvLhmyko0gUCav9M3wAKCRCIqvLhmyko
-0nOJAQDz6kBR+qduOw7Qbq6rDkd8g8LSHEkG8sEFdFrygmfxtQEAylwJZ7nvGNvy
-f+7DIrk0hkEmk4ogQs6ede6CBCTOywQ=
-=8qPY
+iHUEARYKAB0WIQRpaKljYA07pJJoppCIqvLhmyko0gUCav9RigAKCRCIqvLhmyko
+0vKaAQCW0KnNSbk2rwP5JUxjvgTWit5RoHGZtAzB1iuNRuQ6+gD7B8/Tgh4QskK0
+DCVO9HR6Uv6eacl/GypnllsXKmUo9QY=
+=VQb1
 -----END PGP SIGNATURE-----
