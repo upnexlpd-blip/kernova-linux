@@ -1,0 +1,73 @@
+Package: kernova-branding
+Source: kernova-components
+Version: 0.1.3
+Architecture: all
+Maintainer: KERNOVA OS contributors <maintainers@kernova.invalid>
+Installed-Size: 5738
+Depends: hicolor-icon-theme, breeze, kf6-breeze-icon-theme, plasma-workspace-data
+Priority: optional
+Section: kde
+Filename: pool/main/k/kernova-components/kernova-branding_0.1.3_all.deb
+Size: 5757400
+SHA256: 90f68567ab0caf8d787740f24c91a65458eeda96d5b00b91ed29219f5fbbce1c
+SHA1: ad0a8bf29ef4276efe9b351637f2288969696175
+MD5sum: 938e821ebf45eec377d31946f777aa83
+Description: KERNOVA identity, Plasma color scheme and Parallax wallpaper
+ Installs the KERNOVA product information, original mark and wallpaper, and
+ the Night global theme for Plasma 6. The theme uses KDE's Breeze controls.
+
+Package: kernova-default-settings
+Source: kernova-components
+Version: 0.1.3
+Architecture: all
+Maintainer: KERNOVA OS contributors <maintainers@kernova.invalid>
+Installed-Size: 25
+Depends: python3, kernova-branding (= 0.1.3)
+Priority: optional
+Section: kde
+Filename: pool/main/k/kernova-components/kernova-default-settings_0.1.3_all.deb
+Size: 5804
+SHA256: bc191436e99111b7002bb7fdaaa06029180d8515b38131f659a1cda8d72340dd
+SHA1: 2fe2ee4ce2f08494c3dcf1eacbb4ac0b8c24ec97
+MD5sum: 1035b90c18020e05a69fde21b7bd4c0a
+Description: initial desktop settings for new KERNOVA accounts
+ Seeds the global theme and file associations when an account is created.
+ Includes a read-only diagnostic command for checking a running session.
+
+Package: kernova-desktop
+Source: kernova-components
+Version: 0.1.3
+Architecture: all
+Maintainer: KERNOVA OS contributors <maintainers@kernova.invalid>
+Installed-Size: 39
+Depends: plasma-desktop, plasma-workspace, kwin-wayland, xwayland, sddm, sddm-theme-breeze, xserver-xorg, qt6-wayland, breeze, fonts-noto-core, systemsettings, kde-cli-tools, kinfocenter, kscreen, kde-config-screenlocker, libgl1-mesa-dri, polkit-kde-agent-1, xdg-desktop-portal-kde, xdg-user-dirs, xdg-utils, powerdevil, upower, udisks2, network-manager, wpasupplicant, plasma-nm, bluez, bluedevil, pipewire-audio, plasma-pa, plasma-discover, plasma-discover-backend-flatpak, flatpak, python3, python3-gi, gir1.2-flatpak-1.0, packagekit, pciutils, curl, gpg, kde-config-flatpak, baloo6, kio-extras, kaccounts-integration, kaccounts-providers, signon-ui-qt, signon-ui-service, firefox-esr, dolphin, konsole, kate, ark, okular, gwenview, kde-spectacle, plasma-systemmonitor, vlc
+Recommends: kernova-branding (= 0.1.3), kernova-default-settings (= 0.1.3), kernova-welcome (= 0.1.3)
+Priority: optional
+Section: metapackages
+Filename: pool/main/k/kernova-components/kernova-desktop_0.1.3_all.deb
+Size: 10332
+SHA256: 3939c5db187598b7bab26f3ba7dfc2d5237ae9747578eb5d55c2b213de7f942e
+SHA1: d7fe60796a94725fa5741290a213194a16b04a86
+MD5sum: b4c196e77a667fc52f4d60870610c3e0
+Description: KDE Plasma desktop and everyday applications for KERNOVA
+ Keeps the Wayland session, display manager, device integration and everyday
+ applications installed independently of the optional KERNOVA appearance.
+
+Package: kernova-welcome
+Source: kernova-components
+Version: 0.1.3
+Architecture: all
+Maintainer: KERNOVA OS contributors <maintainers@kernova.invalid>
+Installed-Size: 87
+Depends: python3:any, python3-pyside6.qtwidgets, qt6-svg-plugins, kernova-branding (= 0.1.3)
+Priority: optional
+Section: kde
+Filename: pool/main/k/kernova-components/kernova-welcome_0.1.3_all.deb
+Size: 19076
+SHA256: cdb14eb3072833a40af823dfe1420c9eab58702e27df31f5a1ad27113b23bcf4
+SHA1: 475270f715c164b17953cccd6d2c0d54ab2825dc
+MD5sum: e57a737d087b3ea2b82126ded17b8ae7
+Description: offline native introduction and system information for KERNOVA
+ Helps desktop users get started, personalize the desktop and find help.
+ Uses the ordinary account and the installed system's settings tools.
+

@@ -1,0 +1,22 @@
+Origin: KERNOVA
+Label: KERNOVA
+Suite: kernova-trixie
+Codename: kernova-trixie
+Date: Thu, 19 Nov 2026 10:34:46 UTC
+Valid-Until: Thu, 03 Dec 2026 10:34:46 UTC
+Architectures: amd64
+Components: main
+NotAutomatic: yes
+ButAutomaticUpgrades: yes
+MD5Sum:
+ 61cd30650916a3da9068cc02b665045d 3795 main/binary-amd64/Packages
+ 3cdcd69bde2f7294ca585d467ad9d04b 1632 main/binary-amd64/Packages.gz
+ 207d1866914fe8a16082034ce9407dce 135 main/binary-amd64/Release
+SHA1:
+ f46480acd3293c9a0a1ad4a200855295d7356c7f 3795 main/binary-amd64/Packages
+ 73e00dc6f86e27c803e903a98dc10c078f5f8285 1632 main/binary-amd64/Packages.gz
+ 88136ecd0c1a15b9a5d5b624b05ba07a1a56f80e 135 main/binary-amd64/Release
+SHA256:
+ ab4a04c96f04d1bf2932ce9917efb8a1c7c63276a69da86079a9c303bfdae406 3795 main/binary-amd64/Packages
+ e525e1a01d652c6eacbcf11ef44aaffebf02d58bc7708d8b4659dcb5acab1482 1632 main/binary-amd64/Packages.gz
+ 3742d242491e71a4f0bb8990026380f7370137922e09a6a846909a818d2879e4 135 main/binary-amd64/Release
